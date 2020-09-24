@@ -15,3 +15,4 @@ Implementation of Agora's SDK for Video Calling between users in a React Native 
 - Connect your device or start an AVD then run `react-native run-android` to start the app.
 - Enter a channel name and hit submit on the device.
 - Use the same channel on a different device, and that's it. You should have a video call going.
+[![Run on Repl.it](https://repl.it/badge/github/EkaanshArora/Agora-React-Native-Demo)](https://repl.it/github/EkaanshArora/Agora-React-Native-Demo)
